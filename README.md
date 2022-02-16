@@ -1,6 +1,6 @@
-# Petemoss
+# Lavishly Yours
 
-Petemoss is a semi-calligraphic brush script. It is inspired by the forms created using a Pentel™ color brush.
+One of the first fonts to use ornately embellished capital forms, Lavishly Yours is a charming calligraphic script. It's nearly upright style along with looped lowercase miniscules gives this font a fairly tale look.
 
 ![Sample Image](documentation/image1.png)
 
