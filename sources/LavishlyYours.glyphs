@@ -1,14 +1,5 @@
 {
-.appVersion = "1352";
-DisplayStrings = (
-"})/Placeholder",
-"nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o.,:;/ellipsis !¡?¿nn?·/bullet *#///backslash/periodcentered.loclCAT.case/periodcentered.loclCAT (){}[]-­/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase \012/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/leftanglebracket-math/rightanglebracket-math email@yahoo",
-"a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012\012abcdefghijklmnopqrstuvwxyz\012\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space Wrcnder/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space Lyon\012\012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Ng/uhorn/ohorntilde ng",
-"oó/obreve/ocaron ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron",
-"aá/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adotbelow à/ahookabove/ainvertedbreve/amacron/aogonek å/aringacute ã",
-"eé/ebreve/ecaron ê/ecircumflexacute/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/edblgrave ë/edotaccent/edotbelow è/ehookabove/einvertedbreve/emacron/eogonek/etilde/schwa",
-"ú/ubreve/ucaron û/udblgrave ü/udieresiscaron/udieresisgrave/udieresismacron/udotbelow ù/uhookabove/uhorn/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde/uhungarumlaut/uinvertedbreve/umacron/uogonek/uring/utilde"
-);
+.appVersion = "3112";
 copyright = "Copyright 2014-2021 The Lavishly Yours Project Authors (https://github.com/googlefonts/lavishly-yours)";
 customParameters = (
 {
@@ -268,7 +259,7 @@ nodes = (
 width = 676;
 }
 );
-note = .notdef;
+note = ".notdef";
 },
 {
 glyphname = CR;
@@ -43585,51 +43576,12 @@ note = nine;
 rightKerningGroup = nine;
 },
 {
+color = 3;
 glyphname = fraction;
-lastChange = "2022-02-14 21:32:36 +0000";
+lastChange = "2022-02-16 09:47:53 +0000";
 layers = (
 {
 background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"35 -17 OFFCURVE",
-"37 -16 OFFCURVE",
-"38 -14 CURVE SMOOTH",
-"45 6 OFFCURVE",
-"50 19 OFFCURVE",
-"53 23 CURVE SMOOTH",
-"86 93 OFFCURVE",
-"159 185 OFFCURVE",
-"272 300 CURVE SMOOTH",
-"324 351 LINE SMOOTH",
-"325 352 OFFCURVE",
-"326 353 OFFCURVE",
-"326 354 CURVE SMOOTH",
-"326 360 OFFCURVE",
-"321 363 OFFCURVE",
-"311 363 CURVE SMOOTH",
-"307 363 OFFCURVE",
-"304 362 OFFCURVE",
-"301 360 CURVE",
-"275 336 OFFCURVE",
-"256 316 OFFCURVE",
-"243 302 CURVE SMOOTH",
-"144 196 OFFCURVE",
-"77 102 OFFCURVE",
-"39 21 CURVE SMOOTH",
-"30 3 OFFCURVE",
-"26 -9 OFFCURVE",
-"26 -12 CURVE SMOOTH",
-"26 -15 OFFCURVE",
-"28 -17 OFFCURVE",
-"32 -17 CURVE SMOOTH"
-);
-}
-);
-};
-layerId = "64752FBD-EC7B-42BB-A7F3-340BB4BBD1AC";
 paths = (
 {
 closed = 1;
@@ -43668,7 +43620,43 @@ nodes = (
 );
 }
 );
-width = 209;
+};
+layerId = "64752FBD-EC7B-42BB-A7F3-340BB4BBD1AC";
+paths = (
+{
+closed = 1;
+nodes = (
+"81 25 OFFCURVE",
+"101 66 OFFCURVE",
+"132 115 CURVE SMOOTH",
+"201 228 OFFCURVE",
+"481 507 OFFCURVE",
+"582 588 CURVE SMOOTH",
+"584 590 OFFCURVE",
+"585 592 OFFCURVE",
+"585 593 CURVE SMOOTH",
+"585 595 OFFCURVE",
+"582 596 OFFCURVE",
+"577 596 CURVE SMOOTH",
+"564 596 OFFCURVE",
+"551 591 OFFCURVE",
+"539 582 CURVE SMOOTH",
+"501 550 OFFCURVE",
+"349 408 OFFCURVE",
+"291 348 CURVE SMOOTH",
+"247 303 OFFCURVE",
+"124 151 OFFCURVE",
+"84 82 CURVE SMOOTH",
+"74 63 OFFCURVE",
+"61 39 OFFCURVE",
+"61 24 CURVE SMOOTH",
+"61 15 OFFCURVE",
+"70 10 OFFCURVE",
+"75 10 CURVE"
+);
+}
+);
+width = 554;
 }
 );
 note = fraction;
