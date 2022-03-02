@@ -1,5 +1,5 @@
 {
-.appVersion = "1359";
+.appVersion = "1352";
 DisplayStrings = (
 "nn/zero.lf nnoo/Placeholder oo\012iii/Placeholder iii",
 "¾/space 000/Placeholder 00\012OO/Placeholder OO"
@@ -147,11 +147,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1132;
+value = 1142;
 },
 {
 name = winDescent;
-value = 646;
+value = 530;
 },
 {
 name = strikeoutPosition;
@@ -36739,7 +36739,7 @@ unicode = 0078;
 {
 color = 3;
 glyphname = y;
-lastChange = "2022-02-28 20:19:01 +0000";
+lastChange = "2022-03-02 14:51:27 +0000";
 layers = (
 {
 anchors = (
@@ -36749,7 +36749,7 @@ position = "{200, -219}";
 },
 {
 name = top;
-position = "{196, 204}";
+position = "{188, 204}";
 }
 );
 background = {
@@ -36969,7 +36969,7 @@ unicode = 0079;
 },
 {
 glyphname = yacute;
-lastChange = "2022-03-01 14:28:08 +0000";
+lastChange = "2022-03-02 14:51:27 +0000";
 layers = (
 {
 background = {
@@ -36988,7 +36988,7 @@ name = y;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, -54, -40}";
+transform = "{1, 0, 0, 1, -62, -40}";
 }
 );
 layerId = "64752FBD-EC7B-42BB-A7F3-340BB4BBD1AC";
@@ -37001,7 +37001,7 @@ unicode = 00FD;
 },
 {
 glyphname = ycircumflex;
-lastChange = "2022-03-01 14:28:08 +0000";
+lastChange = "2022-03-02 14:51:27 +0000";
 layers = (
 {
 background = {
@@ -37020,7 +37020,7 @@ name = y;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, -54, -40}";
+transform = "{1, 0, 0, 1, -62, -40}";
 }
 );
 layerId = "64752FBD-EC7B-42BB-A7F3-340BB4BBD1AC";
@@ -37033,7 +37033,7 @@ unicode = 0177;
 },
 {
 glyphname = ydieresis;
-lastChange = "2022-03-01 14:28:08 +0000";
+lastChange = "2022-03-02 14:51:27 +0000";
 layers = (
 {
 background = {
@@ -37052,7 +37052,7 @@ name = y;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, -54, -40}";
+transform = "{1, 0, 0, 1, -62, -40}";
 }
 );
 layerId = "64752FBD-EC7B-42BB-A7F3-340BB4BBD1AC";
@@ -37097,7 +37097,7 @@ unicode = 1EF5;
 },
 {
 glyphname = ygrave;
-lastChange = "2022-03-01 14:28:08 +0000";
+lastChange = "2022-03-02 14:51:27 +0000";
 layers = (
 {
 background = {
@@ -37116,7 +37116,7 @@ name = y;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, -54, -40}";
+transform = "{1, 0, 0, 1, -62, -40}";
 }
 );
 layerId = "64752FBD-EC7B-42BB-A7F3-340BB4BBD1AC";
@@ -37129,7 +37129,7 @@ unicode = 1EF3;
 },
 {
 glyphname = yhookabove;
-lastChange = "2022-03-01 14:28:08 +0000";
+lastChange = "2022-03-02 14:51:27 +0000";
 layers = (
 {
 background = {
@@ -37148,7 +37148,7 @@ name = y;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, -54, -40}";
+transform = "{1, 0, 0, 1, -62, -40}";
 }
 );
 layerId = "64752FBD-EC7B-42BB-A7F3-340BB4BBD1AC";
@@ -37161,7 +37161,7 @@ unicode = 1EF7;
 },
 {
 glyphname = ymacron;
-lastChange = "2022-03-01 14:28:08 +0000";
+lastChange = "2022-03-02 14:51:27 +0000";
 layers = (
 {
 background = {
@@ -37180,7 +37180,7 @@ name = y;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, -54, -40}";
+transform = "{1, 0, 0, 1, -62, -40}";
 }
 );
 layerId = "64752FBD-EC7B-42BB-A7F3-340BB4BBD1AC";
@@ -37193,7 +37193,7 @@ unicode = 0233;
 },
 {
 glyphname = ytilde;
-lastChange = "2022-03-01 14:28:08 +0000";
+lastChange = "2022-03-02 14:51:27 +0000";
 layers = (
 {
 background = {
@@ -37212,7 +37212,7 @@ name = y;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, -54, -40}";
+transform = "{1, 0, 0, 1, -62, -40}";
 }
 );
 layerId = "64752FBD-EC7B-42BB-A7F3-340BB4BBD1AC";
@@ -70034,5 +70034,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
