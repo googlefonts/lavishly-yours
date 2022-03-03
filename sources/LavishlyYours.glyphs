@@ -2,7 +2,10 @@
 .appVersion = "1352";
 DisplayStrings = (
 "nn/zero.lf nnoo/Placeholder oo\012iii/Placeholder iii",
-"¾/space 000/Placeholder 00\012OO/Placeholder OO"
+"¾/space 000/Placeholder 00\012OO/Placeholder OO",
+AFGHIJKLMNOPQRSTUVWXYZ,
+abcdefghijklmnopqrstuvwxyz,
+"aá/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/circumflexcomb/gravecomb àèìò/ohorngrave/udieresisgrave ù/uhorngrave/wgrave/ygrave `/brevecomb/brevecomb_gravecomb/circumflexcomb_gravecomb/circumflexcomb_gravecomb/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adotbelow à/ahookabove/ainvertedbreve/amacron/aogonek å/aringacute ãæ/aeacute"
 );
 classes = (
 {
@@ -112,18 +115,18 @@ name = liga;
 fontMaster = (
 {
 alignmentZones = (
-"{670, 16}",
-"{585, 16}",
+"{780, 16}",
+"{650, 16}",
 "{244, 16}",
 "{0, -16}",
-"{-500, -16}"
+"{-450, -16}"
 );
-ascender = 585;
-capHeight = 670;
+ascender = 650;
+capHeight = 780;
 customParameters = (
 {
 name = typoAscender;
-value = 950;
+value = 1100;
 },
 {
 name = typoDescender;
@@ -135,7 +138,7 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 950;
+value = 1100;
 },
 {
 name = hheaDescender;
@@ -170,7 +173,7 @@ name = underlineThickness;
 value = 14;
 }
 );
-descender = -500;
+descender = -450;
 guideLines = (
 {
 locked = 1;
@@ -24726,7 +24729,7 @@ unicode = 01CE;
 },
 {
 glyphname = acircumflex;
-lastChange = "2022-03-01 14:22:38 +0000";
+lastChange = "2022-03-03 00:29:07 +0000";
 layers = (
 {
 background = {
@@ -24788,7 +24791,7 @@ unicode = 1EA5;
 },
 {
 glyphname = acircumflexdotbelow;
-lastChange = "2022-03-01 14:22:38 +0000";
+lastChange = "2022-03-03 00:29:07 +0000";
 layers = (
 {
 background = {
@@ -24826,7 +24829,7 @@ unicode = 1EAD;
 },
 {
 glyphname = acircumflexgrave;
-lastChange = "2022-03-01 14:22:38 +0000";
+lastChange = "2022-03-03 00:32:07 +0000";
 layers = (
 {
 background = {
@@ -63807,13 +63810,17 @@ unicode = 0307;
 {
 color = 3;
 glyphname = gravecomb;
-lastChange = "2022-03-01 13:05:19 +0000";
+lastChange = "2022-03-03 00:31:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
 position = "{250, 244}";
+},
+{
+name = _topviet;
+position = "{194, 326}";
 },
 {
 name = top;
@@ -63869,7 +63876,7 @@ nodes = (
 "280 345 OFFCURVE",
 "281 349 CURVE",
 "278 351 LINE SMOOTH",
-"250 365 OFFCURVE",
+"252 368 OFFCURVE",
 "200 427 OFFCURVE",
 "194 434 CURVE SMOOTH",
 "185 443 OFFCURVE",
@@ -64200,7 +64207,7 @@ width = 500;
 {
 color = 3;
 glyphname = circumflexcomb;
-lastChange = "2022-03-01 11:30:24 +0000";
+lastChange = "2022-03-03 00:30:57 +0000";
 layers = (
 {
 anchors = (
@@ -64211,6 +64218,10 @@ position = "{250, 244}";
 {
 name = top;
 position = "{250, 384}";
+},
+{
+name = topviet;
+position = "{293, 427}";
 }
 );
 background = {
@@ -64422,7 +64433,7 @@ unicode = 030C;
 {
 color = 3;
 glyphname = brevecomb;
-lastChange = "2022-03-01 11:49:52 +0000";
+lastChange = "2022-03-03 00:31:58 +0000";
 layers = (
 {
 anchors = (
@@ -64433,6 +64444,10 @@ position = "{250, 244}";
 {
 name = top;
 position = "{250, 384}";
+},
+{
+name = topviet;
+position = "{223, 429}";
 }
 );
 background = {
@@ -68723,7 +68738,7 @@ width = 500;
 {
 color = 3;
 glyphname = brevecomb_gravecomb;
-lastChange = "2022-03-01 13:17:11 +0000";
+lastChange = "2022-03-03 00:31:58 +0000";
 layers = (
 {
 anchors = (
@@ -68755,9 +68770,8 @@ components = (
 name = brevecomb;
 },
 {
-alignment = -1;
 name = gravecomb;
-transform = "{1, 0, 0, 1, 20, 90}";
+transform = "{1, 0, 0, 1, 29, 103}";
 }
 );
 layerId = "64752FBD-EC7B-42BB-A7F3-340BB4BBD1AC";
@@ -68903,7 +68917,7 @@ width = 500;
 {
 color = 3;
 glyphname = circumflexcomb_gravecomb;
-lastChange = "2022-03-01 13:18:43 +0000";
+lastChange = "2022-03-03 00:32:06 +0000";
 layers = (
 {
 anchors = (
@@ -68935,9 +68949,8 @@ components = (
 name = circumflexcomb;
 },
 {
-alignment = -1;
 name = gravecomb;
-transform = "{1, 0, 0, 1, 101, 90}";
+transform = "{1, 0, 0, 1, 99, 101}";
 }
 );
 layerId = "64752FBD-EC7B-42BB-A7F3-340BB4BBD1AC";
@@ -70034,5 +70047,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 6;
 }
